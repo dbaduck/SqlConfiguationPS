@@ -1,0 +1,10 @@
+D:\Development\MyPSModule\MyPSModule\bin\Release\MyPSModule.dll
+D:\Development\MyPSModule\MyPSModule\bin\Release\MyPSModule.pdb
+D:\Development\MyPSModule\MyPSModule\bin\Release\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Development\MyPSModule\MyPSModule\bin\Release\Microsoft.SqlServer.Smo.dll
+D:\Development\MyPSModule\MyPSModule\bin\Release\System.Management.Automation.dll
+D:\Development\MyPSModule\MyPSModule\obj\Release\MyPSModule.csproj.CoreCompileInputs.cache
+D:\Development\MyPSModule\MyPSModule\obj\Release\MyPSModule.dll
+D:\Development\MyPSModule\MyPSModule\obj\Release\MyPSModule.pdb
+D:\Development\MyPSModule\MyPSModule\obj\Release\MyPSModule.csprojResolveAssemblyReference.cache
+D:\Development\MyPSModule\MyPSModule\obj\Release\MyPSModule.csproj.CopyComplete

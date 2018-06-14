@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlConfigurationPS", "MyPSModule\SqlConfigurationPS.csproj", "{DF0A4659-4A97-4407-A1FD-C1027DF9E7BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF0A4659-4A97-4407-A1FD-C1027DF9E7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF0A4659-4A97-4407-A1FD-C1027DF9E7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF0A4659-4A97-4407-A1FD-C1027DF9E7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF0A4659-4A97-4407-A1FD-C1027DF9E7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F5830F5-6834-44CF-B1C1-8B64362B2156}
+	EndGlobalSection
+EndGlobal

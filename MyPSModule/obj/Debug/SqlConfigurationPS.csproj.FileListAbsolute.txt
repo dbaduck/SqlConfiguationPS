@@ -1,0 +1,10 @@
+D:\Github\SqlConfiguationPS\MyPSModule\bin\Debug\MyPSModule.dll
+D:\Github\SqlConfiguationPS\MyPSModule\bin\Debug\MyPSModule.pdb
+D:\Github\SqlConfiguationPS\MyPSModule\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Github\SqlConfiguationPS\MyPSModule\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Github\SqlConfiguationPS\MyPSModule\bin\Debug\System.Management.Automation.dll
+D:\Github\SqlConfiguationPS\MyPSModule\obj\Debug\SqlConfigurationPS.csprojResolveAssemblyReference.cache
+D:\Github\SqlConfiguationPS\MyPSModule\obj\Debug\SqlConfigurationPS.csproj.CoreCompileInputs.cache
+D:\Github\SqlConfiguationPS\MyPSModule\obj\Debug\SqlConfigurationPS.csproj.CopyComplete
+D:\Github\SqlConfiguationPS\MyPSModule\obj\Debug\MyPSModule.dll
+D:\Github\SqlConfiguationPS\MyPSModule\obj\Debug\MyPSModule.pdb
